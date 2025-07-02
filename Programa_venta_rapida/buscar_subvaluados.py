@@ -5,7 +5,7 @@ import joblib
 
 # --- Archivos ---
 CSV_DATOS = "intermedio_sin_outliers.csv"
-MODELO_PATH = r"C:\Users\andyd\Udesa\Machine Learning\ProyectoML\Programa_venta_rapida\modelo_keras.keras"
+MODELO_PATH = "Programa_venta_rapida/modelo_keras.keras"
 SCALER_X_PATH = "Programa_venta_rapida/scaler_X.pkl"
 SCALER_Y_PATH = "Programa_venta_rapida/scaler_y.pkl"
 
